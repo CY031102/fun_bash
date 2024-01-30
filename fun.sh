@@ -7,7 +7,7 @@ sleep 1
 echo -ne '##              (20%)\r'
 sleep 1
 echo -ne '###             (30%)\r'
-speep 1
+sleep 1
 echo -ne '####            (40%)\r'
 sleep 1
 echo -ne '#####           (50%)\r'
@@ -17,7 +17,7 @@ sleep 1
 echo -ne '#######         (70%)\r'
 sleep 1
 echo -ne '########        (80%)\r'
-speep 1
+sleep 1
 echo -ne '#########       (90%)\r'
 sleep 1
 echo -ne '##########      (100%)\r'
