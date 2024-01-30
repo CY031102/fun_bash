@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Hello,"
-echo "###System Will Reboot in 10s"
+echo "### System Will Reboot in 10s ###"
 echo "Ctrl+C to Cancel"
 echo -ne '#               (10%)\r'
 sleep 1
@@ -23,5 +23,6 @@ sleep 1
 echo -ne '##########      (100%)\r'
 sleep 1
 echo -ne '\n'
-echo '###System Rebooting"
+echo '### System Rebooting ###"
+sleep 3
 reboot
