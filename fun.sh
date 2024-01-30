@@ -13,7 +13,7 @@ sleep 1
 echo -ne '#####           (50%)\r'
 sleep 1
 echo -ne '######          (60%)\r'
-sleep1
+sleep 1
 echo -ne '#######         (70%)\r'
 sleep 1
 echo -ne '########        (80%)\r'
